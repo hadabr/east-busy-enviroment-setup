@@ -1,22 +1,17 @@
-## Project management
->
+## Working enviroment boilerplate
+> оо
 
+###### before start:
 ```
-before start
 1) open your .gitignore file
-
 ~$ code .gitignore
 
 2) check it to have at least the next lines:
-
 dist/
-
 src/styles/
-
 node_modules/
 
 3) install node modules, check if everything works fine
-
 ~$ npm install     
 ~$ npm start
 
