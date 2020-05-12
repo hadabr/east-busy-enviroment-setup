@@ -1,9 +1,10 @@
 {
-  "name": "sassy-css-boilerplate",
+  "name": "working-enviroment-setup",
   "version": "1.0.0",
-  "description": "Sassy CSS Boilerplate including Sass 7-1 Pattern",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"no test specified\"",
     "start": "run-p liveserver watch:styles",
     "build": "run-s clean clean:styles build:styles prefix:css copy",
     "deploy": "run-s build publish",
@@ -27,5 +28,13 @@
   },
   "dependencies": {
     "brand-colors": "^2.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadabr/working-enviroment-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hadabr/working-enviroment-setup/issues"
+  },
+  "homepage": "https://github.com/hadabr/working-enviroment-setup#readme"
 }
