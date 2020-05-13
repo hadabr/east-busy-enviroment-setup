@@ -19,6 +19,7 @@ An example lifecycle of a task from a proposal to final product:
 __  
 *be sure, that **blocked** will not appear on your Calendar  
 it can be set as non-tracking board or board that contains only "completed" column, which will not appear in the calendar
+
 ##### Time management
 
   
