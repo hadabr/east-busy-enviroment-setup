@@ -15,7 +15,8 @@ TO-DOs &nbsp;->&nbsp; In process &nbsp;->&nbsp; Completed &nbsp;or&nbsp; Postpon
 where 1st column always as a storage, 2nd means an action.
 **Postponed** - as here is used a simpler approach than Scrum, it means, the flow has no iterations and reminds a timeline arrow - proposals still can be postponed on "*ideas*" level, on "*task*" or even be "*blocked*" for a time.
 An example lifecycle of a task from a proposal to final product:    
-![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true | width=300)![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true | width=300)
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true | width=300)![image]( | width=300)
+<img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="300"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="300"/>  
 __  
 *be sure, that **blocked** will not appear on your Calendar  
 it can be set as non-tracking board or board that contains only "completed" column, which will not appear in the calendar
