@@ -4,18 +4,18 @@ for small teams and open source projects
 ##### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
 ```Patterns:``` Kanban-based pattern  
-```-``` main workflow is split into ```ideas```, ```tasks``` and ```issues``` boards by default; also, ```common``` and ```blocked``` lists
+- main workflow is split into ```ideas```, ```tasks``` and ```issues``` boards by default; also, ```common``` and ```blocked``` lists
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)  
  
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_102.png?raw=true)
   
-```-``` boards follow columns template: 
+- boards follow columns template: 
 TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Postponed   
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams.png?raw=true)  
-As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional flow. Anyway, tasks still can be _postponed_ or *blocked* for a time and reopen later.  
+> As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional flow. Anyway, tasks still can be _postponed_ or *blocked* for a time and reopen later.  
 
-```-``` tasks are moved between boards changing their status      
+- tasks are moved between boards changing their status      
 <img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="450"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="450"/>  
 __  
 *be sure, that **blocked** will not appear on your Calendar  
