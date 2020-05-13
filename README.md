@@ -1,5 +1,8 @@
 # Easy frontend framework setup
-for small teams and open source projects
+small teams and open source projects
+##### Сontents:
+[Task management](#Task management)
+[Time management](#Time management])
 ## Project and time management
 ### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
@@ -43,15 +46,14 @@ non-tagged tasks - you can consider it like "general"
 ```urgent``` - of course, you can set directly priority; plus, there is easy to observe overdue tasks, but sometimes it just needs more attention   
 ```discussion``` - something on a task needs live text/talk conversation  
 - not tags, but **deadlines**:  
-to final the system, all tasks are divided not only by tags, but by its deadlines; it's also useful if a task is overdue - how to postpone/remind it:    
-routine - repetitive/"never-ending" tasks    
-daily - deadline by a date and hours    
-weekly/monthly -  deadline by a date    
-overall - no fixed deadline    
-> a good task has min 2, max 3 tags  
-- set the same **filters**, based on the tags for every board/list you have  
-```Concept:``` **Notified**  
-```Concept:``` **Cross-conected**  
+
+| routine       | weekly/monthly | overall  |
+| ------------- |---------------| -----  |
+| repetitive, "never-ending" tasks     | deadline by a date and hours | no fixed deadline    |
+
+- good task has only 2-3 tags  
+- at the end set the same **filters**, based on your tags, for every board/list you have  
+```Concept:``` **Notified and Cross-conected**
 🔗
 #### Time management
 ```Tool:``` **Toggl**  
