@@ -3,19 +3,19 @@ for small teams and open source projects
 #### Project and time management
 ##### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
-```Patterns:``` Kanban-based pattern
-main working flow is split by default into several boards  
+```Patterns:``` Kanban-based pattern  
+```-``` main workflow is split into ```ideas```, ```tasks``` and ```issues``` boards by default; also, ```common``` and ```blocked``` lists
+&nbsp; 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)
-
+&nbsp;
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_102.png?raw=true)
 
-```ideas```, ```tasks``` and ```issues``` follow the next columns structure: 
+main boards have follow next columns template: 
 TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Postponed  
-(only ```ideas``` has "In review" instead of "In process")    
+tasks between boards    
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams.png?raw=true)  
-TO-DOs / 1st column - tasks storage.  
-In process/ 2nd - an action.  
-Here is a simpler approach than Scrum, we have non-iterative flow, but tasks still can be _postponed_ on ```ideas``` / ```task``` level; or even be "*blocked*" for a time.  
+
+As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional flow, but tasks still can be _postponed_ or even be *blocked* for a time.  
 
 An example lifecycle of a task from a proposal to final product:    
 <img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="450"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="450"/>  
