@@ -30,14 +30,26 @@ __
 > 2) allows to apply filters and make a search through tasks simpler  
 > it is suggested to use so few tags how possible    
 - (optional) **categories** tags:  
-if you don't have on task manager categories, you can set it through tags ```PM```, ```development```, ```design``` etc.; by default it can be sections from this setup
+if you don't have on task manager categories, you can set it through tags ```PM```, ```development```, ```design```, ```deployment``` etc.; by default it can be sections from this setup
 - **priority** tags:  
 in the next order:  
 
 non-tagged tasks - you can consider it like "general"  
 ```main``` - highest, tasks on which depend a lot of other  
 ```other``` - vice versa to *main*; you can consider them as "in project, but something additional"  
-```extra``` - lowest, *postponed* or non-cored tasks, some features can be added later   
+```extra``` - lowest, *postponed* or non-cored tasks, some features can be added later  
+- **special** tags: 
+
+```urgent``` - of course, you can set directly priority; plus, there is easy to observe overdue tasks, but sometimes it just needs more attention   
+```discussion``` - something on a task needs live text/talk conversation  
+- not tags, but **deadlines**:  
+to final the system, all tasks are divided not only by tags, but by its deadlines; it's also useful if a task is overdue - how to postpone/remind it:    
+routine - repetitive/"never-ending" tasks    
+daily - deadline by a date and hours    
+weekly/monthly -  deadline by a date    
+overall - no fixed deadline    
+> a good task has min 2, max 3 tags  
+- set the same **filters**, based on the tags for every board/list you have  
 ```Concept:``` **Notified**  
 ```Concept:``` **Cross-conected**  
 🔗
