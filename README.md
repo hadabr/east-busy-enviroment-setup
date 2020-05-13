@@ -6,17 +6,15 @@ for small teams and open source projects
 ```Patterns:``` Kanban-based pattern  
 ```-``` main workflow is split into ```ideas```, ```tasks``` and ```issues``` boards by default; also, ```common``` and ```blocked``` lists
 &nbsp;  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)
 &nbsp;
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_102.png?raw=true)
-main boards have follow next columns template: 
-TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Postponed  
-tasks between boards    
+```-``` boards follow columns template: 
+TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Postponed   
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams.png?raw=true)  
+As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional flow. Anyway, tasks still can be _postponed_ or *blocked* for a time and reopen later.  
 
-As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional flow, but tasks still can be _postponed_ or even be *blocked* for a time.  
-
-An example lifecycle of a task from a proposal to final product:    
+```-``` tasks are moved between boards changing their status      
 <img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="450"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="450"/>  
 __  
 *be sure, that **blocked** will not appear on your Calendar  
