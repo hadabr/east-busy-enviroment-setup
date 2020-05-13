@@ -5,7 +5,7 @@ for small teams and open source projects
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
 ```Patterns:```  
 Kanban-based pattern for main working flow -  
-the flow is split by default into several boards
+the flow is split by default into several boards  
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)
 
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_102.png?raw=true)
