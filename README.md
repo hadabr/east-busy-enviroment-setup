@@ -22,25 +22,25 @@ __
 *be sure, that **blocked** will not appear on your Calendar; it can be set as non-tracking board or i.e. board with only *completed* column, which will not appear in the calendar
 
 - sublists
-> in case of a complexed macrotask with a lot of subtasks and details, notes or repetitive processes - **when to unfold a task more important than its deadline**, better to use sublists
+> in case of a complexed macrotask with a lot of subtasks and details, notes or repetitive processes - **when to unfold a task is more important than its deadline**, better to use sublists
 
-![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true)  
-
-##### Time management
-
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true)
+```Pattern:``` **Tags and cards**    
+```Concept:``` **Tags and cards**
+```Concept:``` **Notified**  
+```Concept:``` **Corss-conected**  
+#### Time management
+```Tool:``` **Toggl**  
+```Pattern:``` **Pomodoro** 
   
-SASS:  
-JS:  
-
-#### Development
-Guidelines, resources: none   
+## Development 
 Toolset:    
 Patterns and core concepts:  
 SASS:  
 JS:
-#### UI/UX design and prototyping
+## UI/UX design and prototyping
 
-#### Deployment
+## Deployment
 ```Disclaymer:``` [*...*]  
 ```License:``` [*...*]  
 ```Credist:``` [*...*]  
