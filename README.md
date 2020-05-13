@@ -5,10 +5,11 @@ for small teams and open source projects
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
 ```Patterns:``` Kanban-based pattern  
 ```-``` main workflow is split into ```ideas```, ```tasks``` and ```issues``` boards by default; also, ```common``` and ```blocked``` lists
-&nbsp;  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)
-&nbsp;
+  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)  
+ 
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_102.png?raw=true)
+  
 ```-``` boards follow columns template: 
 TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Postponed   
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams.png?raw=true)  
