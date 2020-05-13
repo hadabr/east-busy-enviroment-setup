@@ -30,14 +30,14 @@ __
 > 2) allows to apply filters and make a search through tasks simpler  
 > it is suggested to use so few tags how possible    
 - (optional) **categories** tags:  
-if you don't have on task manager categories, you can set it through tags as ```PM```, ```development```, ```design``` etc.; by default you can use sections from this setup
+if you don't have on task manager categories, you can set it through tags ```PM```, ```development```, ```design``` etc.; by default it can be sections from this setup
 - **priority** tags:  
-they are ```main```, ```other``` and ```extra```; the order is the next:  
+in the next order:  
 
+non-tagged tasks - you can consider it like "general"  
 ```main``` - highest, tasks on which depend a lot of other  
-non-tagged tasks - you can consider it like "general"
 ```other``` - vice versa to *main*; you can consider them as "in project, but something additional"  
-```extra``` - lowest, *postponed* or non-cored tasks, some features can be added later  
+```extra``` - lowest, *postponed* or non-cored tasks, some features can be added later   
 ```Concept:``` **Notified**  
 ```Concept:``` **Cross-conected**  
 🔗
