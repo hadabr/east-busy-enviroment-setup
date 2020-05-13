@@ -23,6 +23,7 @@ __
 
 - sublists
 > in case of a complexed macrotask with a lot of subtasks and details, notes or repetitive processes - **when to unfold a task more important than its deadline**, better to use sublists
+
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true)  
 
 ##### Time management
