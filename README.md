@@ -1,9 +1,27 @@
 # Easy frontend framework setup
 small teams and open source projects
-##### Сontents:
-[Task management](#Task management)
-[Time management](#Time management])
-## Project and time management
+#### Сontents:
+##### Project management
+[Task management](#task-management)  
+[Time management](#time-management)  
+[Notified and Cross-connected](#Notified-and-Cross-connected)
+##### Development and testing
+[JS](#js)  
+[Appearance](#Appearance)  
+[APIs](#apis)  
+[Database](#Database)  
+##### Design and prototyping
+[Branding](#branding)  
+[UI/UX](#UI/UX)  
+[Assets and media files](#Appearance)  
+##### Deployment
+[Git](#git) 
+...
+##### Marketing
+...
+__
+[*before start*](#before-start:) 
+## Project management
 ### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
 ```Pattern:``` **Kanban-based pattern**  
@@ -53,12 +71,13 @@ non-tagged tasks - you can consider it like "general"
 
 - good task has only 2-3 tags  
 - at the end set the same **filters**, based on your tags, for every board/list you have  
-```Concept:``` **Notified and Cross-conected**
-🔗
+
 #### Time management
 ```Tool:``` **Toggl**  
 ```Pattern:``` **Pomodoro** 
-  
+#### Notified and Cross-connected
+🔗
+
 ## Development 
 Toolset:    
 Patterns and core concepts:  
@@ -72,7 +91,6 @@ JS:
 ```Credist:``` [*...*]  
 
 
-> оо
 
 ###### before start:
 ```
