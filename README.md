@@ -1,10 +1,10 @@
-### Easy frontend framework setup
+# Easy frontend framework setup
 for small teams and open source projects
-#### Project and time management
-##### Task management
+## Project and time management
+### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
-```Patterns:``` Kanban-based pattern  
-- main workflow is split into ```ideas```, ```tasks``` and ```issues``` boards by default; also, ```common``` and ```blocked``` lists
+```Pattern:``` **Kanban-based pattern**  
+- main workflow is split into ```ideas```, ```tasks```, ```issues``` and ```blocked``` boards by default; also, ```common``` list
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_101.png?raw=true)  
  
@@ -16,11 +16,14 @@ TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Pos
 > As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional flow. Anyway, tasks still can be _postponed_ or *blocked* for a time and reopen later.  
 
 - tasks are moved between boards changing their status
-      
-<img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="420"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="420"/>  
+
+<img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="420"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="420"/>  
 __  
-*be sure, that **blocked** will not appear on your Calendar  
-it can be set as non-tracking board or board that contains only "completed" column, which will not appear in the calendar
+*be sure, that **blocked** will not appear on your Calendar; it can be set as non-tracking board or i.e. board with only *completed* column, which will not appear in the calendar
+
+- sublists
+> in case of a complexed macrotask with a lot of subtasks and details, notes or repetitive processes - **when to unfold a task more important than its deadline**, better to use sublists
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true)  
 
 ##### Time management
 
