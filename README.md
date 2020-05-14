@@ -47,7 +47,7 @@ TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Pos
 
 <img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="420"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="420"/>
 
-- entries that appeared in **To-DOs** can be freely taken by who wants to do them at **flat organizational structure** or will be assigned by a supervisor at **hierarchical**
+- after appeared in **To-DOs** can be freely taken by who wants to do them - at **flat organizational structure** or will be assigned by a supervisor - at **hierarchical** one
 __  
 *be sure, that **blocked** will not appear on your Calendar; it can be set as non-tracking board or i.e. board with only *completed* column, which will not appear in the calendar
 
@@ -56,8 +56,9 @@ __
 
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true)  
 
-```Pattern:``` **Context-based tags and filters**
-> as known, Kanban used system of colorful priority cards to control the flow; fo the same approach we are using colorful tags
+```Concept:``` **Context-based tags and filters**
+> as known, **Kanban** used system of colorful priority cards to control the flow; 
+> for the same approach we are using **colorful tags**  
 > 1) to give more information about a task from first sight  
 > 2) allows to apply filters and make a search through tasks simpler  
 > it is suggested to use so few tags how possible    
