@@ -88,12 +88,17 @@ non-tagged tasks - you can consider it like "general"
 ```Pattern:``` **Pomodoro** 
 
 
-## Development 
-Toolset:    
-Patterns and core concepts:  
-SASS:  
-JS:
-## UI/UX design and prototyping
+## Development and testing
+### App architecture
+### QA  
+### JS
+### Appearance  
+### APIs
+### Database 
+## Design and prototyping
+### Branding
+### UI/UX
+### Assets and media files
 
 ## Deployment
 ```Disclaymer:``` [*...*]  
