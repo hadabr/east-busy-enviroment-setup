@@ -2,7 +2,7 @@
 ### Сontents:
 ##### Project management
 [Task management](#task-management)   
-[Notifications and cross-links](#notifications-and-cross-links)  
+[Connection and synchronization](#Connection-and-synchronization)  
 [Time management](#time-management) 
 ##### Development and testing
 [App architecture](#app-architecture)  
@@ -48,11 +48,12 @@ TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Pos
 <img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="420"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="420"/>
 
 - after appeared in **To-DOs** can be freely taken by who wants to do them - at **flat organizational structure** or will be assigned by a supervisor - at **hierarchical** one
+
 __  
 *be sure, that **blocked** will not appear on your Calendar; it can be set as non-tracking board or i.e. board with only *completed* column, which will not appear in the calendar
 
-- sublists
-> in case of a complexed macrotask with a lot of subtasks and details, notes or repetitive processes - **when to unfold a task is more important than its terms**, better to use **sublists**
+- sublists  
+ in case of a complexed macrotask with a lot of subtasks and details, notes or repetitive processes - **when to unfold a task is more important than its terms**, better to use **sublists**
 
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true)  
 
@@ -83,11 +84,20 @@ non-tagged tasks - you can consider it like "general"
 
 - good task has only 2-3 tags  
 - at the end set the same **filters**, based on your tags, for every board/list you have  
-#### Notifications and cross-links
-🔗 Task management efficient only when everything is synchronized, enviroment is set for self- and external ```forecast```, ```control``` and ```analyse```  
-One of the important ways to achieve it
-![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_111.png?raw=true)  
 
+#### Connection and synchronization   
+🔗 Task management is efficient only when everything in an enviroment is set for continuous self- and external ```forecast```, ```control```, ```analyse```  
+Steps to reach it:
+- simplify communication in a team
+preffer all-in-one tools (talk+inbox+chat), reduce its ammount  
+use DRY - reduce ammount of discussion on general through providing a documentation, pinned messages,  streams 
+...
+- set integrations and cross-links 
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_111.png?raw=true)
+link Version control with tasks - every commit can have a link (i.e. comment) to coresponeded task and vice versa  
+set calendar to fecth tasks
+- use system of notifications about ```commits```, ```tasks```, ```tests```, ```news```  
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true) 
 
 #### Time management
 ```Tool:``` **Toggl**  
