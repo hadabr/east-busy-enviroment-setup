@@ -43,9 +43,11 @@ TO-DOs &nbsp;⇒&nbsp; In process &nbsp;⇒&nbsp; Completed &nbsp;*or*&nbsp; Pos
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams.png?raw=true)  
 > As here is a simpler approach than Scrum - we have a *non-iterative* one-dimensional straightforward flow. Anyway, tasks still can be _postponed_ or *blocked* for a time and reopen later.  
 
-- tasks are moved between boards and inside a board, changing their status
+- tasks are moved between boards and inside a board, changing their status  
 
-<img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="420"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="420"/>  
+<img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams2.png?raw=true" width="420"/><img src="https://github.com/hadabr/assets/blob/master/working-enviroment-setup/sams1.png?raw=true" width="420"/>
+
+- entries that appeared in **To-DOs** can be freely taken by who wants to do them at **flat organizational structure** or will be assigned by a supervisor at **hierarchical**
 __  
 *be sure, that **blocked** will not appear on your Calendar; it can be set as non-tracking board or i.e. board with only *completed* column, which will not appear in the calendar
 
@@ -81,8 +83,10 @@ non-tagged tasks - you can consider it like "general"
 - good task has only 2-3 tags  
 - at the end set the same **filters**, based on your tags, for every board/list you have  
 #### Notifications and cross-links
+🔗 Task management efficient only when everything is synchronized, enviroment is set for self- and external ```forecast```, ```control``` and ```analyse```  
+One of the important ways to achieve it
 ![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_111.png?raw=true)  
-🔗
+
 
 #### Time management
 ```Tool:``` **Toggl**  
@@ -90,7 +94,7 @@ non-tagged tasks - you can consider it like "general"
 
 ## Development and testing
 [⇑ back to Contents](#Сontents)
-### App architecture  
+### Architecture  
 ### QA  
 ### JS
 ### Appearance  
