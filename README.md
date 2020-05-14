@@ -93,11 +93,11 @@ preffer all-in-one tools (talk+inbox+chat), reduce its ammount
 use DRY - reduce ammount of discussion on general through providing a documentation, pinned messages,  streams 
 ...
 - set integrations and cross-links 
-![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_111.png?raw=true)
-link Version control with tasks - every commit can have a link (i.e. comment) to coresponeded task and vice versa  
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_111.png?raw=true)  
+link Version control software with tasks - every commit can have a link (i.e. comment) to coresponeded task and vice versa  
 set calendar to fecth tasks
 - use system of notifications about ```commits```, ```tasks```, ```tests```, ```news```  
-![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_105.png?raw=true) 
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_112.png?raw=true) 
 
 #### Time management
 ```Tool:``` **Toggl**  
@@ -106,6 +106,8 @@ set calendar to fecth tasks
 ## Development and testing
 [⇑ back to Contents](#Сontents)
 ### Architecture  
+```Pattern:``` **Modular architecture** 
+
 ### QA  
 ### JS
 ### Appearance  
