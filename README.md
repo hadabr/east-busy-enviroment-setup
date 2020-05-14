@@ -1,5 +1,4 @@
 # Easy frontend framework setup
-small teams and open source projects
 #### Сontents:
 ##### Project management
 [Task management](#task-management)   
@@ -26,7 +25,7 @@ small teams and open source projects
 [Disclaymer](#disclaymer)    
 ...
 ##### Marketing
-...
+...  
 __  
 [*before start*](#before-start:) 
 ## Project management
@@ -80,6 +79,7 @@ non-tagged tasks - you can consider it like "general"
 - good task has only 2-3 tags  
 - at the end set the same **filters**, based on your tags, for every board/list you have  
 #### Notifications and cross-links
+![image](https://github.com/hadabr/assets/blob/master/working-enviroment-setup/Screenshot_111.png?raw=true)  
 🔗
 
 #### Time management
