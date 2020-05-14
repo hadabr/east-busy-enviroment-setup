@@ -17,17 +17,17 @@ small teams and open source projects
 [UI/UX](#UI/UX)  
 [Assets and media files](#Appearance)  
 ##### Deployment
-[Version control management](#version-control-management)
+[Version control management](#version-control-management)  
 [Computing resources and storage](#computing-resources-and-storage)   
 ...
 ##### Intelectual resources
-[License](#license)
-[Credits](#credits)
+[License](#license)  
+[Credits](#credits)  
 [Disclaymer](#disclaymer)    
 ...
 ##### Marketing
 ...
-__
+__  
 [*before start*](#before-start:) 
 ## Project management
 ### Task management
