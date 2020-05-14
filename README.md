@@ -1,5 +1,5 @@
 # Easy frontend framework setup
-#### Сontents:
+### Сontents:
 ##### Project management
 [Task management](#task-management)   
 [Notifications and cross-links](#notifications-and-cross-links)  
@@ -27,7 +27,8 @@
 ##### Marketing
 ...  
 __  
-[*before start*](#before-start:) 
+[before start](#before-start:) 
+
 ## Project management
 ### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
