@@ -5,7 +5,7 @@
 [Notifications and cross-links](#notifications-and-cross-links)  
 [Time management](#time-management) 
 ##### Development and testing
-[App architecture](#app-architecture)
+[App architecture](#app-architecture)  
 [QA](#qa)    
 [JS](#js)  
 [Appearance](#Appearance)  
@@ -90,7 +90,7 @@ non-tagged tasks - you can consider it like "general"
 
 ## Development and testing
 [⇑ back to Contents](#Сontents)
-### App architecture
+### App architecture  
 ### QA  
 ### JS
 ### Appearance  
