@@ -30,7 +30,7 @@ __
 [before start](#before-start) 
 
 ## Project management
-[⇑ back to Contents](#contents)
+[⇑ back to Contents](#contents:)
 ### Task management
 ```Tool:``` [*Trello, quire, Asana or Jira etc.*]  
 ```Pattern:``` **Kanban-based pattern**  
@@ -89,7 +89,7 @@ non-tagged tasks - you can consider it like "general"
 ```Pattern:``` **Pomodoro** 
 
 ## Development and testing
-[⇑ back to Contents](#contents)
+[⇑ back to Contents](#contents:)
 ### App architecture
 ### QA  
 ### JS
@@ -97,25 +97,25 @@ non-tagged tasks - you can consider it like "general"
 ### APIs
 ### Database 
 ## Design and prototyping
-[⇑ back to Contents](#contents)
+[⇑ back to Contents](#contents:)
 ### Branding
 ### UI/UX
 ### Assets and media files
 
 ## Deployment
-[⇑ back to Contents](#contents) 
+[⇑ back to Contents](#contents:) 
 ### Version control management
 ### Computing resources and storage 
 
 ## Intelectual resources  
-[⇑ back to Contents](#contents)  
+[⇑ back to Contents](#contents:)  
 ### License  
 ### Credits 
 ### Disclaymer   
    
 
 ## Marketing
-[⇑ back to Contents](#contents)
+[⇑ back to Contents](#contents:)
 
 
 ###### before start:
