@@ -2,10 +2,12 @@
 small teams and open source projects
 #### Сontents:
 ##### Project management
-[Task management](#task-management)  
-[Time management](#time-management)  
-[Notified and Cross-connected](#Notified-and-Cross-connected)
+[Task management](#task-management)   
+[Notifications and cross-links](#notifications-and-cross-links)  
+[Time management](#time-management) 
 ##### Development and testing
+[App architecture](#app-architecture)
+[QA](#qa)    
 [JS](#js)  
 [Appearance](#Appearance)  
 [APIs](#apis)  
@@ -15,7 +17,13 @@ small teams and open source projects
 [UI/UX](#UI/UX)  
 [Assets and media files](#Appearance)  
 ##### Deployment
-[Git](#git) 
+[Version control management](#version-control-management)
+[Computing resources and storage](#computing-resources-and-storage)   
+...
+##### Intelectual resources
+[License](#license)
+[Credits](#credits)
+[Disclaymer](#disclaymer)    
 ...
 ##### Marketing
 ...
@@ -71,12 +79,13 @@ non-tagged tasks - you can consider it like "general"
 
 - good task has only 2-3 tags  
 - at the end set the same **filters**, based on your tags, for every board/list you have  
+#### Notifications and cross-links
+🔗
 
 #### Time management
 ```Tool:``` **Toggl**  
 ```Pattern:``` **Pomodoro** 
-#### Notified and Cross-connected
-🔗
+
 
 ## Development 
 Toolset:    
