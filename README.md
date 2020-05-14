@@ -88,7 +88,6 @@ non-tagged tasks - you can consider it like "general"
 ```Tool:``` **Toggl**  
 ```Pattern:``` **Pomodoro** 
 
-
 ## Development and testing
 [⇑ back to Contents](#contents)
 ### App architecture
@@ -104,10 +103,16 @@ non-tagged tasks - you can consider it like "general"
 ### Assets and media files
 
 ## Deployment
-[⇑ back to Contents](#contents)
-```Disclaymer:``` [*...*]  
-```License:``` [*...*]  
-```Credist:``` [*...*]  
+[⇑ back to Contents](#contents) 
+### Version control management
+### Computing resources and storage 
+
+## Intelectual resources  
+[⇑ back to Contents](#contents)  
+### License  
+### Credits 
+### Disclaymer   
+   
 
 ## Marketing
 [⇑ back to Contents](#contents)
