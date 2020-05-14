@@ -27,7 +27,7 @@
 ##### Marketing
 ...  
 __  
-[before start](#before-start:) 
+[before start](#before-start) 
 
 ## Project management
 ### Task management
