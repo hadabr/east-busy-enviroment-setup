@@ -26,8 +26,6 @@
 ...
 ##### Marketing
 ...  
-__  
-[before start](#before-start) 
 
 ## Project management
 [⇑ back to Contents](#Сontents)
@@ -133,18 +131,3 @@ set calendar to fecth tasks
 
 ## Marketing
 [⇑ back to Contents](#Сontents)
-
-
-###### before start:
-```
-before start 
-- check if in .gitignore contains next lines:
-dist/
-src/styles/
-node_modules/
-- install node modules:
-~$ npm install
-- run liveserver:
-~$ npm start
-you should see opened index.html and sass watching for changes
-```
