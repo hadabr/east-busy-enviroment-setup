@@ -1,3 +1,5 @@
+https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/
+
 # Easy frontend framework setup
 ### Сontents:
 ##### Project management
