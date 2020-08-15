@@ -1,4 +1,4 @@
-# Easy frontend framework setup
+# Easy busy project setup 
 ### Сontents:
 ##### Project management
 [Task management](#task-management)   
